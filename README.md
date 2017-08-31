@@ -79,7 +79,7 @@ cognitive engine code, it is not installed like traditional software.
 ### Latest Development Version
 1. Download the git repository:
 
-        $ git clone git@github.com:ericps1/crts.git
+        $ git clone https://github.com/cornet3d/crts.git
 
 2. Move into the main source tree:
 
